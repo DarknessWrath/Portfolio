@@ -1,0 +1,7 @@
+J:\Prog\VS\JusteValeur\obj\Debug\JusteValeur.csprojAssemblyReference.cache
+J:\Prog\VS\JusteValeur\obj\Debug\JusteValeur.csproj.CoreCompileInputs.cache
+J:\Prog\VS\JusteValeur\bin\Debug\JusteValeur.exe.config
+J:\Prog\VS\JusteValeur\bin\Debug\JusteValeur.exe
+J:\Prog\VS\JusteValeur\bin\Debug\JusteValeur.pdb
+J:\Prog\VS\JusteValeur\obj\Debug\JusteValeur.exe
+J:\Prog\VS\JusteValeur\obj\Debug\JusteValeur.pdb

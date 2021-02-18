@@ -1,0 +1,7 @@
+J:\Prog\VS\DayTime\bin\Debug\DayTime.exe.config
+J:\Prog\VS\DayTime\bin\Debug\DayTime.exe
+J:\Prog\VS\DayTime\bin\Debug\DayTime.pdb
+J:\Prog\VS\DayTime\obj\Debug\DayTime.csproj.CoreCompileInputs.cache
+J:\Prog\VS\DayTime\obj\Debug\DayTime.exe
+J:\Prog\VS\DayTime\obj\Debug\DayTime.pdb
+J:\Prog\VS\DayTime\obj\Debug\DayTime.csprojAssemblyReference.cache

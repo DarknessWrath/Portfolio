@@ -1,0 +1,6 @@
+J:\Prog\VS\MoveTheCar\bin\Debug\MoveTheCar.exe.config
+J:\Prog\VS\MoveTheCar\bin\Debug\MoveTheCar.exe
+J:\Prog\VS\MoveTheCar\bin\Debug\MoveTheCar.pdb
+J:\Prog\VS\MoveTheCar\obj\Debug\MoveTheCar.csproj.CoreCompileInputs.cache
+J:\Prog\VS\MoveTheCar\obj\Debug\MoveTheCar.exe
+J:\Prog\VS\MoveTheCar\obj\Debug\MoveTheCar.pdb

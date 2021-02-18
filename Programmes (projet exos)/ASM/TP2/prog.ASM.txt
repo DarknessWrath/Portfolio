@@ -1,0 +1,25 @@
+data SEGMENT
+	
+data ENDS
+code segment
+	assume CS:code, DS:data
+debut:
+
+		mov CX, 10
+boucle: 
+		
+		loop boucle 
+	
+code ends 
+	end debut
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
